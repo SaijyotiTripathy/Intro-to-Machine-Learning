@@ -13,3 +13,12 @@ This repository consists of the projects I completed during my Introduction to M
 
 - Notebook : <a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/28%20Aug%202021%20Logistic%20Regression.ipynb">Logistic Regression</a></br>
 <a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/Logistic%20Data.csv">Dataset</a>
+
+- Notebook : <a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/31%20Aug%202021%20K%20Nearest%20Neighbor%20Algorithm.ipynb">K Nearest Neighbor</a></br>
+<a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/Social_Ads.csv">Dataset</a>
+
+- Notebook : <a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/01%20Sept%202021%20K%20Means%20Clustering.ipynb">K Means Clustering</a></br>
+<a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/Customers_ID.xls">Dataset</a>
+
+- Notebook : <a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/04%20Sept%202021%20Deep%20Learning.ipynb">Deep Learning</a></br>
+<a href="https://github.com/SaijyotiTripathy/Intro-to-Machine-Learning/blob/main/Churn_Modelling.csv">Dataset</a>
